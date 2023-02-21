@@ -12,7 +12,7 @@ const player2Cont = document.querySelector('.player--1');
 const holdBtn = document.querySelector('.btn--hold');
 const newGameBtn = document.querySelector('.btn--new');
 
-let player1Final = 99;
+let player1Final = 0;
 let player2Final = 0;
 
 let p1CurrScore = 0;
